@@ -1,6 +1,6 @@
 # University Course Recommendation System
 
-### Overview
+### Overview of Team Project
 University Course Recommendation System is a Web Application that matches polytechnic graduates GPA scores to eligible university courses in 10th and 90th percentiles, and allows for categorisation, filtering, and sorting of both university courses and co-curricular activities in the universities that offer these courses.
 
 From the login landing page, the user may choose 'Login' and proceed to the Admin Page, or the user may choose 'Guest Login' and proceed to the User Page.
